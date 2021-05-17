@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/kartikrajofficial?logo=twitter&style=for-the-badge" alt="a092devs" /></a> </p>
 
-- ⭐ I’m currently studing !! Its my hooby yo code.
+- ⭐ I’m currently studing !! Its my hobby to code!! ⭐
+- 😅 Mostly i make projects for telegram! 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
