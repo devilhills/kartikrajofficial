@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a092devs&label=Profile%20views&color=0e75b6&style=flat" alt="a092devs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/kartikrajofficial?logo=twitter&style=for-the-badge" alt="a092devs" /></a> </p>
 
 - ⭐ I’m currently studing !! Its my hobby to code!! ⭐
 - 😅 Mostly i make projects for telegram! 😎
