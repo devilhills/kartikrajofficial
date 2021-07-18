@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm KARTIK</h1>
 <h3 align="center">A beginner/noob</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a092devs&label=Profile%20views&color=0e75b6&style=flat" alt="Kartikrajofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartikrajofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Kartikrajofficial" /> </p>
 
 
 - ⭐ I’m currently studing !! Its my hobby to code!! ⭐
